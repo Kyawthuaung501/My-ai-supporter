@@ -1,1 +1,3 @@
+rootProject.name = "My-ai-supporter"
+include ':app'
 
