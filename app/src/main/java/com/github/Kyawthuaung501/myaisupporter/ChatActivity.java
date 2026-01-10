@@ -12,5 +12,7 @@ public class ChatActivity extends AppCompatActivity {
 
         // Attach chat layout
         setContentView(R.layout.activity_chat);
+        CompanyDataManager manager = new CompanyDataManager(this);
+        String companyData = manager.loadCompanyData();
     }
 }
