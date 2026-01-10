@@ -1,4 +1,4 @@
-package com.github.YOUR_GITHUB_USERNAME.myaisupporter;
+package com.github.Kyawthuaung501.myaisupporter;
 
 import android.content.Intent;
 import android.os.Bundle;
